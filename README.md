@@ -22,7 +22,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/BugraTohumcu/WeatherApp.git
+    git clone https://github.com/BugraTohumcu/java-weatherapp-gson.git
     cd WeatherApp
     ```
 
